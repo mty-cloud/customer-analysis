@@ -1,16 +1,9 @@
 # 虚拟环境
 venv/
 .venv/
-env/
-
-# Python 缓存
-__pycache__/
-*.py[cod]
 
 # IDE
 .idea/
-.vscode/
-*.swp
 
 # 打包产物
 build/
@@ -19,8 +12,4 @@ dist/
 *.exe
 
 # macOS
-.DS_Store
-
-# 数据文件（如果不希望上传）
-# *.csv
-# *.xlsx
+.DS_Storegit status
